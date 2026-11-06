@@ -1,7 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v10.0/.Modules/settings.schema.json",
-  "country": "us",
+  "country": "pl",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "enableCodeCop": true,
+  "enableUICop": true
 }
